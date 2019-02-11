@@ -1,12 +1,4 @@
-/*
-import { greeting } from './lib/greeting';
-
-const root = document.getElementById('root');
-root.textContent = greeting;
-*/
-
 import * as tf from "@tensorflow/tfjs"
-// import "@tensorflow/tfjs-node"
 import iris from "./resources/iris.json";
 import irisTesting from "./resources/iris-testing.json";
 

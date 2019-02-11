@@ -1,12 +1,13 @@
 {
-  "name": "webpack-babel-typescript-starter",
+  "name": "tensorflowjs-iris-demo",
   "version": "1.0.0",
-  "description": "A quick and simple Webpack, Babel and TypeScript environment",
+  "description": "A tensorflowjs NN demo",
   "main": "index.ts",
   "scripts": {
     "start": "webpack-dev-server --mode development"
   },
   "keywords": [
+    "tensorflowjs",
     "webpack",
     "webpack-dev-server",
     "babel",

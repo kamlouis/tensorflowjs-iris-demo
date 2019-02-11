@@ -1,25 +1,11 @@
-# Webpack, Babel and TypeScript starter
+# Tensorflow.js Iris Demo
 
-A quick and simple [Webpack](https://webpack.js.org/), [Babel](https://babeljs.io/) and [TypeScript](https://www.typescriptlang.org/) environment.
+This is a demo of the popular video by LearnCode.academy, TensorFlow JS Tutorial - [Build a neural network with TensorFlow for Beginners](https://www.youtube.com/watch?v=XdErOpUzupY).
 
-### Note
+See the original [source code](https://gist.github.com/learncodeacademy/a96d80a29538c7625652493c2407b6be) by LearnCode.academy.
 
-In webpack 4.x, Node.js 4 is no longer supported.
-Webpack founder Tobias Koppers advises users to use Node >= 8.9.4 for optimal performance. See [tweet here](https://twitter.com/wSokra/status/967852475918274561)
+Uses [webpack-babel-typescript-starter](https://github.com/kamlouis/webpack-babel-typescript-starter) as starting point.
 
-Check your current Node version
-
-```
-$ node --version
-```
-
-## Features
-
-- [x] Webpack v4.x.x
-- [x] Babel v7.x.x
-- [x] TypeScript v3.x.x
-- [x] Support for ES2015 ES2016 and ES2017 features
-- [x] Hot reloading
 
 ## Install dependencies
 
@@ -35,11 +21,24 @@ $ npm i
 $ npm start
 ```
 
-## Open in web browser
+## Open in web browser (Chrome is recommended)
 
 ```
 http://localhost:8080/
 ```
+
+## To see results
+Open Chrome DevTools.
+
+On Windows
+```
+Right-click mouse and select option Inspect or press the key F12
+```
+On Mac
+```
+Right-click mouse and select option Inspect
+```
+
 
 ## License
 
