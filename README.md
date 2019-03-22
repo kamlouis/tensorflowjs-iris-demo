@@ -42,4 +42,4 @@ Right-click mouse and select option Inspect
 
 ## License
 
-[MIT](https://opensource.org/licenses/MIT). © 2018 Kam Louis
+[MIT](https://opensource.org/licenses/MIT). © 2019 Kam Louis
